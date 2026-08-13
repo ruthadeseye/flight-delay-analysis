@@ -203,9 +203,9 @@ Provides detailed analysis of:
 * Delay severity
 * Airport-level delay patterns
 
-**[Insert Executive Overview Screenshot Here]**
+![Executive Overview](executive-overview.png)
 
-**[Insert Flight Delay Analysis Screenshot Here]**
+![Flight Delay Analysis](flight-delay-analysis.png)
 
 ---
 
@@ -213,7 +213,7 @@ Provides detailed analysis of:
 
 A presentation explaining the project background, methodology, analysis, insights, and recommendations is available here:
 
-**[Insert Google Slides Presentation Link]**
+(https://docs.google.com/presentation/d/11vUJRTifFV9JM2SAgFoztYS8unHa-wblRQoV_w5AtVo/edit?usp=sharing)
 
 ---
 
@@ -254,8 +254,29 @@ Aspiring Junior Data Analyst focused on using data analysis and visualization to
 
 **Tools:** Power BI | SQL | Excel | Power Query | DAX
 
-[LinkedIn](INSERT-LINK)
+[LinkedIn](https://www.linkedin.com/in/adesanya-adeseye-5778ab2a5/)
 
 [Portfolio](INSERT-LINK)
 
-[GitHub](INSERT-LINK)
+
+
+[GitHub](https://github.com/ruthadeseye)
+
+
+## 📈 Dashboard
+
+The project contains two Power BI dashboard pages.
+
+### Executive Overview
+
+![Executive Overview](executive-overview.png)
+
+Provides a high-level summary of flight operations, key performance indicators, and airline performance.
+
+### Flight Delay Analysis
+
+![Flight Delay Analysis](flight-delay-analysis.png)
+
+Provides detailed analysis of airline delays, monthly trends, delay severity, and airport-level performance.
+
+
