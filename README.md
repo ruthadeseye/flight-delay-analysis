@@ -235,6 +235,11 @@ This project demonstrates practical experience in:
 
 ---
 
+## 🎓 Certifications
+
+- [Data Analytics — GoMyCode Certificate of Completion](certificates/GoMyCode-Data-Analytics-Certificate.pdf)
+- [Data Analysis Certificate — Skill2Scale](certificates/Skill2Scale-Data-Analysis-Certificate.pdf)
+
 ## 📂 Project Deliverables
 
 This project includes:
